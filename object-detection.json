@@ -1,0 +1,38 @@
+[
+    {
+        "class_id": 0,
+        "confidence": 0.9986184239387512,
+        "label": "person",
+        "x": 70,
+        "y": 43,
+        "width": 39,
+        "height": 93
+    },
+    {
+        "class_id": 1,
+        "confidence": 0.9968628287315369,
+        "label": "bicycle",
+        "x": 64,
+        "y": 93,
+        "width": 63,
+        "height": 56
+    },
+    {
+        "class_id": 2,
+        "confidence": 0.9909922480583191,
+        "label": "car",
+        "x": 103,
+        "y": 66,
+        "width": 82,
+        "height": 40
+    },
+    {
+        "class_id": 1,
+        "confidence": 0.5906078815460205,
+        "label": "bicycle",
+        "x": 21,
+        "y": 71,
+        "width": 11,
+        "height": 13
+    }
+]
